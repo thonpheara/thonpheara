@@ -35,7 +35,7 @@
 ### 🚀 គម្រោងលេចធ្លូ (Featured Projects)
 
 * **[InternshipMS (ប្រព័ន្ធគ្រប់គ្រងការហាត់ការ)](https://github.com/thonpheara/InternshipMS)**
-  * ប្រព័ន្ធសម្រាប់គ្រប់គ្រងការដាក់ពាក្យ និងតាមដានការហាត់ការរបស់និស្សិត ដែលมี门户សម្រាប់និស្សិត ក្រុមហ៊ុន និងរដ្ឋបាលសាលា។
+  * ប្រព័ន្ធសម្រាប់គ្រប់គ្រងការដាក់ពាក្យ និងតាមដានការហាត់ការរបស់និស្សិត ដែលសម្រាប់និស្សិត ក្រុមហ៊ុន និងរដ្ឋបាលសាលា។
   * **បច្ចេកវិទ្យាប្រើប្រាស់៖** Laravel, MySQL, Tailwind CSS, Blade។
 
 * **[Restaurant-Ordering System](https://github.com/thonpheara/Restaurant-Ordering)**
