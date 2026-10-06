@@ -6,7 +6,7 @@
 
 ---
 
-<div style="font-family: 'Kantumruy Pro', sans-serif;">
+<div style="font-family: 'Siemreap', sans-serif;">
 
 ### 💻 អំពីខ្ញុំ (About Me)
 
