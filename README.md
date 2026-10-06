@@ -36,14 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats & 3D Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thonpheara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="thonpheara's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonpheara&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
-</p>
-
----
 
 ### 📈 GitHub Stats & Analytics
 
