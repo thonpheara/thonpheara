@@ -45,14 +45,13 @@
 
 ---
 
-### 🌐 3D Contributions View
+### 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.s3.ap-northeast-1.amazonaws.com/thonpheara/profile-contrib-card.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thonpheara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="thonpheara's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonpheara&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,10&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thonpheara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
