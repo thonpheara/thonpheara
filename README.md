@@ -26,7 +26,7 @@
 
 ### 🚀 គម្រោងលេចធ្លោ (Featured Projects)
 
-* **[JobsMS (ប្រព័ន្ធគ្រប់គ្រងការងារ)](https://github.com/thonpheara/InternshipMS)**
+* **[JobsMS (ប្រព័ន្ធគ្រប់គ្រងការងារ)](https://github.com/thonpheara/JobsMS)**
   * 🌟 ប្រព័ន្ធសម្រាប់គ្រប់គ្រងការងារ ស្វែងរកការងារ និងពិនិត្យស្ថានភាពការងារ ដែលរៀបចំឡើងសម្រាប់និស្សិត ក្រុមហ៊ុន និងរដ្ឋបាលសាលា។
   * **បច្ចេកវិទ្យាប្រើប្រាស់៖** Laravel, MySQL, Tailwind CSS, Blade។
 
